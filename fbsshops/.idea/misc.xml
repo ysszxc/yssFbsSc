@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_config/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/test_fastdfs/pom.xml" />
+        <option value="$PROJECT_DIR$/test_solr/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_web/shop_back/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_web/shop_goods/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_web/shop_item/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_web/shop_search/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_web/show_front/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_web/shop_sso/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_mail/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_web/shop_mail/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_web/shop_mails/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_web/shop_cart/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_web/shop_order/pom.xml" />
+        <option value="$PROJECT_DIR$/shop_web/shop_miaosha/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/shop_web/shop_mail/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

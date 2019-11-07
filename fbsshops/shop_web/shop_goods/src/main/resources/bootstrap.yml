@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      name: application
+      profile: goods,eureka,datasource,thymeleaf,feign,rabbitmq
+      uri: http://localhost:20000

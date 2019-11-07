@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fbsshops.iml" filepath="$PROJECT_DIR$/fbsshops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_back/shop_back.iml" filepath="$PROJECT_DIR$/shop_web/shop_back/shop_back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_cart/shop_cart.iml" filepath="$PROJECT_DIR$/shop_web/shop_cart/shop_cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_commons/shop_commons.iml" filepath="$PROJECT_DIR$/shop_commons/shop_commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_config/shop_config.iml" filepath="$PROJECT_DIR$/shop_config/shop_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_entity/shop_entity.iml" filepath="$PROJECT_DIR$/shop_entity/shop_entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_eureka/shop_eureka.iml" filepath="$PROJECT_DIR$/shop_eureka/shop_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_feign/shop_feign.iml" filepath="$PROJECT_DIR$/shop_feign/shop_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_gateway/shop_gateway.iml" filepath="$PROJECT_DIR$/shop_gateway/shop_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_goods/shop_goods.iml" filepath="$PROJECT_DIR$/shop_web/shop_goods/shop_goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_item/shop_item.iml" filepath="$PROJECT_DIR$/shop_web/shop_item/shop_item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_mails/shop_mails.iml" filepath="$PROJECT_DIR$/shop_web/shop_mails/shop_mails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_miaosha/shop_miaosha.iml" filepath="$PROJECT_DIR$/shop_web/shop_miaosha/shop_miaosha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_order/shop_order.iml" filepath="$PROJECT_DIR$/shop_web/shop_order/shop_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_search/shop_search.iml" filepath="$PROJECT_DIR$/shop_web/shop_search/shop_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_sso/shop_sso.iml" filepath="$PROJECT_DIR$/shop_web/shop_sso/shop_sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_web.iml" filepath="$PROJECT_DIR$/shop_web/shop_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/show_front/show_front.iml" filepath="$PROJECT_DIR$/shop_web/show_front/show_front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_fastdfs/test_fastdfs.iml" filepath="$PROJECT_DIR$/test_fastdfs/test_fastdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_solr/test_solr.iml" filepath="$PROJECT_DIR$/test_solr/test_solr.iml" />
+    </modules>
+  </component>
+</project>

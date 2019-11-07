@@ -1,0 +1,10 @@
+
+fdfs:
+  connect-timeout: 1000
+  pool:
+    jmx-enabled: false
+  thumb-image:
+    height: 100
+    width: 100
+  tracker-list:
+    - 192.168.254.128:22122

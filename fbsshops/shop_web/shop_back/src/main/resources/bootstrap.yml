@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      name: application
+      profile: back,eureka,datasource,thymeleaf,fdfs,feign
+      uri: http://localhost:20000

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shop_back" />
+        <module name="shop_cart" />
+        <module name="shop_commons" />
+        <module name="shop_config" />
+        <module name="shop_entity" />
+        <module name="shop_eureka" />
+        <module name="shop_feign" />
+        <module name="shop_gateway" />
+        <module name="shop_goods" />
+        <module name="shop_item" />
+        <module name="shop_mails" />
+        <module name="shop_miaosha" />
+        <module name="shop_order" />
+        <module name="shop_search" />
+        <module name="shop_sso" />
+        <module name="shop_web" />
+        <module name="show_front" />
+        <module name="test_fastdfs" />
+        <module name="test_solr" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fbsshops" target="1.8" />
+      <module name="shop_back" target="1.8" />
+      <module name="shop_cart" target="1.8" />
+      <module name="shop_commons" target="1.8" />
+      <module name="shop_config" target="1.8" />
+      <module name="shop_entity" target="1.8" />
+      <module name="shop_eureka" target="1.8" />
+      <module name="shop_feign" target="1.8" />
+      <module name="shop_gateway" target="1.8" />
+      <module name="shop_goods" target="1.8" />
+      <module name="shop_item" target="1.8" />
+      <module name="shop_mail" target="1.8" />
+      <module name="shop_mails" target="1.8" />
+      <module name="shop_miaosha" target="1.8" />
+      <module name="shop_order" target="1.8" />
+      <module name="shop_search" target="1.8" />
+      <module name="shop_sso" target="1.8" />
+      <module name="shop_text" target="1.8" />
+      <module name="shop_web" target="1.8" />
+      <module name="show_front" target="1.8" />
+      <module name="test_fastdfs" target="1.8" />
+      <module name="test_solr" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

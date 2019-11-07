@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      name: application
+      profile: orders,eureka,datasource,thymeleaf,redis
+      uri: http://localhost:20000
